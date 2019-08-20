@@ -16,9 +16,6 @@ For introductory and Beginners please <a href="">https://github.com/turkialjrees
 Prediction using Machine Learning and Deep Learning Techniques
 
 
-Prediction using Machine Learning and Deep Learning Techniques
-
-
 Stock Prices Prediction Using Machine Learning and Deep Learning Techniques (with Python codes)
 
 
